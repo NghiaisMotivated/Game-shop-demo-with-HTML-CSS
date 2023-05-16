@@ -1,0 +1,123 @@
+body {
+    background-color: #f5f5fa;
+}
+
+.capcom {
+    width: 300px;
+    height: 150px;
+}
+
+.row h5 {
+    text-align: center;
+}
+
+.row h3 {
+    text-align: center;
+}
+
+.row p {
+    font-size: small;
+    margin-top: px;
+}
+
+.re8 {
+    margin-left: 10px;
+}
+
+.buy h3 {
+    text-align: center;
+}
+
+.detail ul {
+    margin-top: -px;
+}
+
+.detail ul li {
+    list-style: disc;
+    font-size: 15px
+}
+
+.buy {
+    background-image: url(../Picture/4849492.jpg);
+    height: 600PX;
+    box-shadow: inset 0 0 0 2000px #3a2f2fab;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buy p {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+.buy p b {
+    color: yellowgreen;
+}
+
+.big {
+    text-align: center;
+    color: white;
+    font-size: 90px;
+}
+
+.container h3 {
+    color: white;
+}
+
+.discount h3 {
+    text-decoration: line-through;
+}
+
+.discount p {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.badge {
+    margin-left: 5px;
+}
+
+.price {
+    color: white;
+    text-align: center;
+}
+
+.price a {
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+.trailer1 {
+    margin-top: 20px;
+    margin-left: 130px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.SP {
+    text-align: center;
+}
+
+.descript {
+    font-size: 18px;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.content3 ul li {
+    list-style: circle;
+}
+
+#more {
+    display: none;
+}
+
+.Price-Buy p {
+    font-size: 25px;
+}
